@@ -10,7 +10,6 @@ The "Diamond Mela" project is a web application built using React.js, along with
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -57,3 +56,6 @@ The "Diamond Mela" project serves as a platform for users to explore and discove
 - Basic CSS: Styling for the website layout and appearance.
 - JavaScript: Programming language for adding interactivity and functionality.
 - HTML: Struct
+
+## Contributing
+- Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request. Contact us @needa.0710@gmail.com
