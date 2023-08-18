@@ -23,7 +23,7 @@ The "Diamond Mela" project serves as a platform for users to explore and discove
     * CATALOGUE page
     * SINGLE PRODUCT page
     * COMPARE page
-- Features such as FILTER/SORTING, COMPARISON
+- Features such as FILTER/SORTING(similar to that of Flipkart), COMPARISON
 - Using URLSearchParams and LOCAL_STORAGE
 - Browse a variety of jewelry products, categorized by types (rings, necklaces, earrings, bracelets).
 - View detailed product information, including images, descriptions, materials, and pricing.
