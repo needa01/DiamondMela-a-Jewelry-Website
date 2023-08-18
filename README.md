@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# Diamond Mela Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The "Diamond Mela" project is a web application built using React.js, along with basic CSS, JavaScript, and HTML. It aims to showcase an exquisite collection of jewelry items in an interactive and user-friendly manner.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
-### `npm start`
+## Project Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The "Diamond Mela" project serves as a platform for users to explore and discover a curated selection of jewelry pieces. Leveraging React.js and other web technologies, the project offers an immersive experience through dynamic animations, responsive design, and interactive functionalities.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- Created different pages:
+    * CATEGORY page
+    * CATALOGUE page
+    * SINGLE PRODUCT page
+    * COMPARE page
+- Features such as FILTER/SORTING(similar to that of Flipkart), COMPARISON
+- Using URLSearchParams and LOCAL_STORAGE
+- Browse a variety of jewelry products, categorized by types (rings, necklaces, earrings, bracelets).
+- View detailed product information, including images, descriptions, materials, and pricing.
+- Compare multiple products side by side to make informed decisions.
+- Add products to a shopping cart and proceed to checkout for purchase.
+- Utilize a search bar and filtering options to easily find desired products.
+- Create an account, log in, and manage user profiles.
+- Responsive design ensures optimal viewing on various devices.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
 
-### `npm run build`
+1. Clone the repository:
+>git clone https://github.com/your-username/diamond-mela.git
+>cd diamond-mela
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Install dependencies:
+>npm install
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Usage
 
-### `npm run eject`
+1. Start the development server:
+>npm start
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to explore the "Diamond Mela" website.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Technologies Used
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- React.js: Frontend library for building user interfaces.
+- Basic CSS: Styling for the website layout and appearance.
+- JavaScript: Programming language for adding interactivity and functionality.
+- HTML: Struct
