@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DiamondMela-a-Jewelry-Website/static/css/main.47698480.css",
+    "main.js": "/DiamondMela-a-Jewelry-Website/static/js/main.709350b1.js",
+    "static/js/787.05191266.chunk.js": "/DiamondMela-a-Jewelry-Website/static/js/787.05191266.chunk.js",
+    "static/media/fa-solid-900.ttf": "/DiamondMela-a-Jewelry-Website/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/page-title-bg.jpg": "/DiamondMela-a-Jewelry-Website/static/media/page-title-bg.a6555cb1d75bc7f28ed5.jpg",
+    "static/media/fa-brands-400.ttf": "/DiamondMela-a-Jewelry-Website/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/DiamondMela-a-Jewelry-Website/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/DiamondMela-a-Jewelry-Website/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/DiamondMela-a-Jewelry-Website/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/DiamondMela-a-Jewelry-Website/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/DiamondMela-a-Jewelry-Website/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/DiamondMela-a-Jewelry-Website/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/DiamondMela-a-Jewelry-Website/index.html",
+    "main.47698480.css.map": "/DiamondMela-a-Jewelry-Website/static/css/main.47698480.css.map",
+    "main.709350b1.js.map": "/DiamondMela-a-Jewelry-Website/static/js/main.709350b1.js.map",
+    "787.05191266.chunk.js.map": "/DiamondMela-a-Jewelry-Website/static/js/787.05191266.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47698480.css",
+    "static/js/main.709350b1.js"
+  ]
+}
