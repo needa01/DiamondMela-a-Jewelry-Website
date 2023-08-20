@@ -14,7 +14,7 @@ function App() {
       <BrowserRouter basename="/DiamondMela-a-Jewelry-Website">
         <Header />
         <Routes>
-          <Route exact path="/Category" Component={Category} />
+          <Route exact path="/DiamondMela-a-Jewelry-Website" Component={Category} />
           <Route exact path="/" Component={Category} />
           <Route exact path="/products/:id?" Component={Catalogue} />
           <Route exact path="/product/:productID?" Component={SingleProduct}/>
