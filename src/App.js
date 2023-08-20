@@ -11,7 +11,7 @@ import Compare from "./Components/Compare";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="/DiamondMela-a-Jewelry-Website">
         <Header />
         <Routes>
           <Route exact path="/Category" Component={Category} />
