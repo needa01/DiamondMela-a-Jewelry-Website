@@ -11,11 +11,11 @@ import Compare from "./Components/Compare";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter basename="/DiamondMela-a-Jewelry-Website/">
+      <BrowserRouter>
         <Header />
         <Routes>
-          <Route exact path="/DiamondMela-a-Jewelry-Website/" Component={Category} />
-          <Route exact path="/DiamondMela-a-Jewelry-Website/" Component={Category} />
+          <Route exact path="/Category" Component={Category} />
+          <Route exact path="/" Component={Category} />
           <Route exact path="/products/:id?" Component={Catalogue} />
           <Route exact path="/product/:productID?" Component={SingleProduct}/>
           <Route exact path="/compare" Component={Compare}/>
